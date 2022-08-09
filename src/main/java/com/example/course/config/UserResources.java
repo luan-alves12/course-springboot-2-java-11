@@ -1,4 +1,4 @@
-package com.example.course.resources;
+package com.example.course.config;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
